@@ -26,3 +26,27 @@ A research and tech project to improve women’s safety using surveys, data anal
 | Visualization     | Jupyter Notebook, Power BI/Tableau *(optional)* |
 | IoT System        | Arduino, GSM & GPS Modules, Push Button          |
 | Cloud/
+# Women's Safety Project 🚨
+
+This project aims to enhance women’s safety using:
+- 📝 Survey data collection
+- 📊 Data analysis (using Python, pandas, etc.)
+- 📡 IoT-based emergency alert system (using Arduino, sensors, GPS, etc.)
+
+## 🔍 Folders
+
+- `survey/`: Contains survey data and forms
+- `data_analysis/`: Python notebooks/scripts for analyzing data
+- `iot_alert_system/`: Arduino code and diagrams
+- `assets/`: Images, charts, or other assets used in this project
+
+## 💡 Goal
+
+The goal is to design a smart solution that can:
+- Detect danger
+- Send alerts to emergency contacts
+- Analyze safety data to find risk-prone areas
+
+## 🔗 License
+
+This project is licensed under the MIT License.
