@@ -1,0 +1,21 @@
+Timestamp,Age,Location,Feel Safe,Know Emergency Number,Use Safety App
+2025-05-01 08:00:00,22,Delhi,Not Safe,No,No
+2025-05-01 09:00:00,28,Mumbai,Somewhat Safe,Yes,Yes
+2025-05-01 10:00:00,35,Bangalore,Very Safe,Yes,No
+2025-05-01 11:00:00,19,Kolkata,Not Safe,No,No
+2025-05-01 12:00:00,26,Pune,Somewhat Safe,Yes,Yes
+2025-05-01 13:00:00,30,Chennai,Very Safe,Yes,Yes
+2025-05-01 14:00:00,24,Hyderabad,Not Safe,No,No
+2025-05-01 15:00:00,31,Ahmedabad,Very Safe,Yes,Yes
+2025-05-01 16:00:00,29,Jaipur,Somewhat Safe,Yes,Yes
+2025-05-01 17:00:00,21,Lucknow,Not Safe,No,No
+2025-05-01 18:00:00,33,Bhopal,Very Safe,Yes,Yes
+2025-05-01 19:00:00,27,Nagpur,Somewhat Safe,Yes,Yes
+2025-05-01 20:00:00,25,Indore,Not Safe,No,No
+2025-05-01 21:00:00,32,Patna,Very Safe,Yes,Yes
+2025-05-01 22:00:00,23,Ranchi,Somewhat Safe,Yes,No
+2025-05-01 23:00:00,20,Surat,Not Safe,No,No
+2025-05-02 00:00:00,34,Kanpur,Very Safe,Yes,Yes
+2025-05-02 01:00:00,36,Amritsar,Somewhat Safe,Yes,Yes
+2025-05-02 02:00:00,38,Noida,Not Safe,No,No
+2025-05-02 03:00:00,40,Guwahati,Very Safe,Yes,Yes

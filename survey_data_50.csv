@@ -1,0 +1,51 @@
+Respondent_ID,Age,Location,Time_of_Incident,Place_of_Incident,Felt_Safe,Reported_to_Authorities,Type_of_Harassment
+1,31,Kolkata,6:30 PM,Street,Yes,Yes,Stalking
+2,28,Mumbai,9:00 PM,Park,Yes,No,None
+3,27,Mumbai,8:30 PM,Street,Yes,Yes,Stalking
+4,32,Bangalore,7:00 PM,Workplace,Yes,Yes,None
+5,22,Delhi,7:45 PM,Park,No,Yes,None
+6,18,Mumbai,8:00 PM,College,Yes,No,Verbal
+7,29,Delhi,8:30 PM,Mall,Yes,No,Stalking
+8,21,Jaipur,8:30 PM,Public Transport,No,No,Stalking
+9,24,Chennai,7:00 PM,Workplace,Yes,Yes,Stalking
+10,20,Delhi,11:00 PM,Workplace,Yes,No,Stalking
+11,33,Bangalore,9:00 PM,Workplace,No,Yes,Verbal
+12,25,Kolkata,10:00 PM,Park,Yes,Yes,Verbal
+13,35,Jaipur,8:30 PM,Park,Yes,Yes,None
+14,30,Kolkata,8:00 PM,Public Transport,Yes,Yes,None
+15,33,Jaipur,8:00 PM,Public Transport,No,Yes,Verbal
+16,26,Kolkata,8:00 PM,Mall,Yes,Yes,None
+17,19,Ahmedabad,9:00 PM,College,No,Yes,Stalking
+18,31,Jaipur,6:30 PM,Workplace,No,Yes,None
+19,27,Chennai,11:00 PM,Workplace,Yes,No,Stalking
+20,26,Hyderabad,8:30 PM,Park,No,Yes,Physical
+21,35,Ahmedabad,10:00 PM,Street,Yes,Yes,None
+22,35,Jaipur,9:00 PM,Workplace,No,Yes,Verbal
+23,22,Pune,6:30 PM,Street,No,Yes,Verbal
+24,31,Mumbai,9:30 PM,Street,No,Yes,Physical
+25,34,Ahmedabad,11:00 PM,Mall,No,Yes,Verbal
+26,32,Pune,6:00 PM,Park,Yes,No,None
+27,18,Mumbai,7:45 PM,Workplace,No,No,Physical
+28,30,Delhi,11:00 PM,Street,Yes,Yes,Physical
+29,34,Ahmedabad,6:30 PM,Street,No,No,Physical
+30,33,Delhi,9:30 PM,Public Transport,No,Yes,Physical
+31,33,Delhi,11:00 PM,College,No,Yes,Physical
+32,20,Kolkata,9:00 PM,Workplace,Yes,Yes,Physical
+33,25,Lucknow,10:00 PM,Workplace,No,Yes,Physical
+34,33,Chennai,7:45 PM,Street,No,No,Stalking
+35,31,Bangalore,6:30 PM,Mall,No,Yes,Verbal
+36,27,Ahmedabad,9:00 PM,Park,Yes,Yes,Physical
+37,30,Kolkata,6:30 PM,Park,No,No,None
+38,18,Hyderabad,8:00 PM,Workplace,No,No,Physical
+39,32,Jaipur,9:00 PM,Street,Yes,No,Physical
+40,20,Hyderabad,7:45 PM,College,No,Yes,Stalking
+41,26,Ahmedabad,6:00 PM,Public Transport,No,No,Verbal
+42,25,Jaipur,9:30 PM,Public Transport,No,No,Verbal
+43,32,Kolkata,9:00 PM,Park,Yes,Yes,Physical
+44,32,Bangalore,10:00 PM,Workplace,No,No,Stalking
+45,28,Kolkata,8:00 PM,Street,No,No,None
+46,27,Jaipur,6:30 PM,College,Yes,No,Stalking
+47,33,Kolkata,7:45 PM,College,No,Yes,Physical
+48,22,Ahmedabad,6:00 PM,Public Transport,Yes,No,None
+49,34,Ahmedabad,9:00 PM,Park,No,No,Physical
+50,27,Ahmedabad,8:00 PM,Street,No,Yes,Verbal
